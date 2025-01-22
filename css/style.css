@@ -1,3 +1,7 @@
+* body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
 .container-logo {
     background-color: rgba(15, 191, 235, 0.679);
     height: 100px;
@@ -8,14 +12,65 @@
   margin-left: 10px;
 }
 
+.link {
+    color: aqua;
+}
+
 h1 {
     margin-bottom: 0;
 }
 
 .under-title {
     color: lightgrey;
+    font-size: 10px;
+    
 }
 
 .description-photo {
     font-size: 10px;
 }
+
+.mark {
+    background-color: yellow;
+
+}
+/*tabella*/
+.section-table {
+    background-color: rgb(40, 147, 235);
+    color: white;
+   
+}
+
+
+.light-grey {
+    background-color: lightgray;
+}
+
+.acqua {
+    background-color: aqua;
+}
+
+table {
+    width: 100%;
+}
+
+.tleft {
+    width: 25%;
+}
+.tcenter {
+    width: 25%;
+}
+/*fine tabella*/
+
+
+
+
+/*footer*/
+.fine-pagina {
+    background-color: blue;
+    height: 30px;
+    text-align: center;
+   color: white;
+}
+
+
