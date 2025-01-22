@@ -1,0 +1,21 @@
+.container-logo {
+    background-color: rgba(15, 191, 235, 0.679);
+    height: 100px;
+}
+.logo-image {
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+.under-title {
+    color: lightgrey;
+}
+
+.description-photo {
+    font-size: 10px;
+}
